@@ -1,0 +1,15 @@
+1. Se instala consola
+2. Se instala server
+3. Se instala agente
+
+--------------
+Cambio de pass en: /etc/pandora/pandora_server.conf
+
+Ejecutamos servidor: systemctl start pandora_server.service
+Ejecutamos agente: systemctl start pandora_agent_daemon.service
+
+
+DOCU:
+http://wiki.pandorafms.com/index.php?title=Pandora:Documentation
+http://wiki.pandorafms.com/index.php?title=Pandora:Documentation_es:Instalacion
+https://pandorafms.org/en/docs/resources/
